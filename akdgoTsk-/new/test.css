@@ -1,18 +1,22 @@
 .header{
+    height: 50px;
     background-color: aquamarine;
 }
 
 .lift{
+    height: 200px;
     float: left;
     background-color: cornflowerblue;
     width: 164px;
 
 }
 .right{
+    height: 200px;
     float: right;
     background-color: coral;
     width: 700px;
 }
 .footer{
+    height: ;
     background-color: lightgreen;
 }
